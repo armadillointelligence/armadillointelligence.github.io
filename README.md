@@ -1,1 +1,5 @@
-# armadillointelligence.github.io
+# Armadillo Intelligence
+
+Congrats, you've reached the homepage for Armadillo Intelligence.
+
+Shhh 🤫.
