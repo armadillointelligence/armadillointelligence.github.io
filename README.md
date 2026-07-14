@@ -1,5 +1,8 @@
 # Armadillo Intelligence
 
+</br>
+</br>
+
 Congrats, you've reached the homepage for Armadillo Intelligence - essentially a collection of portfolio work and pet projects. There's not much here yet.
 
 </br>
