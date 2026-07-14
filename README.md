@@ -8,13 +8,14 @@ Congrats, you've reached the homepage for Armadillo Intelligence - essentially a
 </br>
 </br>
 </br>
-</br>
-</br>
 
 - [Steven's Github](https://github.com/StevenAbbott)
 - [Steven's LinkedIn - including Masters Advanced Perception project reports](https://www.linkedin.com/in/steven-abbott-dev/)
 
-### Shareable stuff I've worked on:
+</br>
+</br>
+
+## Shareable stuff I've worked on:
 - [JPADS Joint Precision Airdrop System](https://en.wikipedia.org/wiki/Joint_Precision_Airdrop_System)
 - [Kineto Tracking Mount Tracking](https://ntrs.nasa.gov/api/citations/20040074217/downloads/20040074217.pdf)
 - [Defense Ecosystem AI and ML Test and Evaluation](https://www.morsecorp.com/pressrelease.html?prId=pr_08_29_2022)
