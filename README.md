@@ -32,7 +32,7 @@ Congrats, you've reached the homepage for Armadillo Intelligence - essentially a
 - Visual Stereo Auto-Skeet/Skeet-Assist shotgun project: *cool concept*
 
 ## [Unshareable stuff:](https://youtube.com/shorts/6a29fdNuX6o?si=qL-RuOAh5zwCPRyX)
-- ...
+- [Here](https://youtube.com/shorts/6a29fdNuX6o?si=qL-RuOAh5zwCPRyX)
 
 ## Random cool stuff:
 - [MagNav Quantum Magnetic Navigation for GPS denied environments](https://arxiv.org/html/2504.08167v1)
