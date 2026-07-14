@@ -1,11 +1,11 @@
 # Armadillo Intelligence
 
-Congrats, you've reached the homepage for Armadillo Intelligence - essentially a collection of portfolio work and pet projects. There's not much here yet.
+## Congrats, you've reached the homepage for Armadillo Intelligence - essentially a collection of portfolio work and pet projects. There's not much here yet.
 
 - [Steven's Github](https://github.com/StevenAbbott)
 - [Steven's LinkedIn - including Masters Advanced Perception project reports](https://www.linkedin.com/in/steven-abbott-dev/)
 
-Shareable stuff I've worked on:
+### Shareable stuff I've worked on:
 - [JPADS Joint Precision Airdrop System](https://en.wikipedia.org/wiki/Joint_Precision_Airdrop_System)
 - [Kineto Tracking Mount Tracking](https://ntrs.nasa.gov/api/citations/20040074217/downloads/20040074217.pdf)
 - [Defense Ecosystem AI and ML Test and Evaluation](https://www.morsecorp.com/pressrelease.html?prId=pr_08_29_2022)
@@ -21,10 +21,10 @@ Much of the work that possibly could be posted here is private by default. Inqui
 - CS7180 Kalman Filter KF/EKF/UKF: *video presentation*
 - Visual Stereo Auto-Skeet/Skeet-Assist shotgun project: *cool concept*
 
-[Unshareable stuff:](https://youtube.com/shorts/6a29fdNuX6o?si=qL-RuOAh5zwCPRyX)
+## [Unshareable stuff:](https://youtube.com/shorts/6a29fdNuX6o?si=qL-RuOAh5zwCPRyX)
 - ...
 
-Random cool stuff:
+## Random cool stuff:
 - [MagNav Quantum Magnetic Navigation for GPS denied environments](https://arxiv.org/html/2504.08167v1)
 - [Alleged Ghost Murmur Rescue](https://en.wikipedia.org/wiki/2026_United_States_F-15E_rescue_operation_in_Iran)
 - [APKWS C-UAS](https://en.wikipedia.org/wiki/Advanced_Precision_Kill_Weapon_System)
