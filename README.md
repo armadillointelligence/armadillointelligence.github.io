@@ -1,6 +1,12 @@
 # Armadillo Intelligence
 
-## Congrats, you've reached the homepage for Armadillo Intelligence - essentially a collection of portfolio work and pet projects. There's not much here yet.
+Congrats, you've reached the homepage for Armadillo Intelligence - essentially a collection of portfolio work and pet projects. There's not much here yet.
+
+</br>
+</br>
+</br>
+</br>
+</br>
 
 - [Steven's Github](https://github.com/StevenAbbott)
 - [Steven's LinkedIn - including Masters Advanced Perception project reports](https://www.linkedin.com/in/steven-abbott-dev/)
