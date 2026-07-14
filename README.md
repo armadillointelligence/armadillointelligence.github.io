@@ -22,8 +22,9 @@ Congrats, you've reached the homepage for Armadillo Intelligence - essentially a
 - [Army MLOps and Model Test and Evaluation Software](https://www.morsecorp.com/pressrelease.html?prId=pr_08_12_2024)
 - [NU Helping Hand Lab very very briefly](https://www2.ccs.neu.edu/research/helpinghands/)
 
+</br>
 
-## Much of the work that possibly could be posted here is private by default. Inquire about the following:
+## Several projects are kept private. Inquire for:
 - CS7180 Jin et al. CVPR 2023 Estimating Reflectance Layer from Singler Image paper replication project: *code, video presentation* (the report can be found on LinkedIn)
 - CS7180 Lu et al. CVPR 2021 Transformer for Single Image Super-Resolution paper replication project: *code, video presentation, report*
 - CS5330 + personal mm-accurate body scan custom clothing pattern definition and sizing project: *report/whitepaper, Sam-4dBody code, pattern platform code, video presentation*
@@ -31,8 +32,12 @@ Congrats, you've reached the homepage for Armadillo Intelligence - essentially a
 - CS7180 Kalman Filter KF/EKF/UKF: *video presentation*
 - Visual Stereo Auto-Skeet/Skeet-Assist shotgun project: *cool concept*
 
+</br>
+
 ## [Unshareable stuff:](https://youtube.com/shorts/6a29fdNuX6o?si=qL-RuOAh5zwCPRyX)
 - [Here](https://youtube.com/shorts/6a29fdNuX6o?si=qL-RuOAh5zwCPRyX)
+
+</br>
 
 ## Random cool stuff:
 - [MagNav Quantum Magnetic Navigation for GPS denied environments](https://arxiv.org/html/2504.08167v1)
