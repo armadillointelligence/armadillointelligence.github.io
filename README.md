@@ -13,7 +13,7 @@
 - [NU Helping Hand Lab very very briefly](https://www2.ccs.neu.edu/research/helpinghands/)
 
 
-Much of the work that possibly could be posted here is private by default. Inquire about the following:
+## Much of the work that possibly could be posted here is private by default. Inquire about the following:
 - CS7180 Jin et al. CVPR 2023 Estimating Reflectance Layer from Singler Image paper replication project: *code, video presentation* (the report can be found on LinkedIn)
 - CS7180 Lu et al. CVPR 2021 Transformer for Single Image Super-Resolution paper replication project: *code, video presentation, report*
 - CS5330 + personal mm-accurate body scan custom clothing pattern definition and sizing project: *report/whitepaper, Sam-4dBody code, pattern platform code, video presentation*
