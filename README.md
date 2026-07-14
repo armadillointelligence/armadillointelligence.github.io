@@ -1,19 +1,19 @@
 # Armadillo Intelligence
 
-</br>
-</br>
+<br>
+<br>
 
 Congrats, you've reached the homepage for Armadillo Intelligence - essentially a collection of portfolio work and pet projects. There's not much here yet.
 
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 - [Steven's Github](https://github.com/StevenAbbott)
 - [Steven's LinkedIn - including Masters Advanced Perception project reports](https://www.linkedin.com/in/steven-abbott-dev/)
 
-</br>
-</br>
+<br>
+<br>
 
 ## Shareable stuff I've worked on:
 - [JPADS Joint Precision Airdrop System](https://en.wikipedia.org/wiki/Joint_Precision_Airdrop_System)
@@ -22,7 +22,7 @@ Congrats, you've reached the homepage for Armadillo Intelligence - essentially a
 - [Army MLOps and Model Test and Evaluation Software](https://www.morsecorp.com/pressrelease.html?prId=pr_08_12_2024)
 - [NU Helping Hand Lab very very briefly](https://www2.ccs.neu.edu/research/helpinghands/)
 
-</br>
+<br>
 
 ## Several projects are kept private. Inquire for:
 - CS7180 Jin et al. CVPR 2023 Estimating Reflectance Layer from Singler Image paper replication project: *code, video presentation* (the report can be found on LinkedIn)
@@ -32,12 +32,12 @@ Congrats, you've reached the homepage for Armadillo Intelligence - essentially a
 - CS7180 Kalman Filter KF/EKF/UKF: *video presentation*
 - Visual Stereo Auto-Skeet/Skeet-Assist shotgun project: *cool concept*
 
-</br>
+<br>
 
 ## [Unshareable stuff:](https://youtube.com/shorts/6a29fdNuX6o?si=qL-RuOAh5zwCPRyX)
 - [Here](https://youtube.com/shorts/6a29fdNuX6o?si=qL-RuOAh5zwCPRyX)
 
-</br>
+<br>
 
 ## Random cool stuff:
 - [MagNav Quantum Magnetic Navigation for GPS denied environments](https://arxiv.org/html/2504.08167v1)
